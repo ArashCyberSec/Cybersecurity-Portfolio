@@ -19,7 +19,7 @@ Explore my projects that highlight practical applications of my skills:
 
 ## Education
 - Master of Engineering in Internetworking (2019)
-- Bachelor of Engineering in ELectrical Engineering (2011)
+- Bachelor of Engineering in Electrical Engineering (2011)
 
 ## Certifications
 - Diploma in Cybersecurity (2024)
@@ -27,4 +27,4 @@ Explore my projects that highlight practical applications of my skills:
 - CompTIA A+ (2014)
 
 ## Contact
-Feel free to connect with me on [LinkedIn]([#](https://www.linkedin.com/in/mirmoghisi/)) or via email at arash.mirmoghisi@icloud.com.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mirmoghisi/) or via email at arash.mirmoghisi@icloud.com.
