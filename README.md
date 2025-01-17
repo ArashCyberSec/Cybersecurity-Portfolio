@@ -17,10 +17,14 @@ Explore my projects that highlight practical applications of my skills:
 - [Project Name 1](link-to-project): Description
 - [Project Name 2](link-to-project): Description
 
+## Education
+- Master of Engineering in Internetworking (2019)
+- Bachelor of Engineering in ELectrical Engineering (2011)
+
 ## Certifications
-- Diploma in Cybersecurity
-- CompTIA A+
-- [Other certifications]
+- Diploma in Cybersecurity (2024)
+- CCENT (2017)
+- CompTIA A+ (2014)
 
 ## Contact
-Feel free to connect with me on [LinkedIn](#) or via email at arash@example.com.
+Feel free to connect with me on [LinkedIn]([#](https://www.linkedin.com/in/mirmoghisi/)) or via email at arash.mirmoghisi@icloud.com.
